@@ -1,0 +1,40 @@
+body {
+    background: #f8f8f8;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 320px;
+    background: #c8b3e6;   /* Light purple */
+    margin: 40px auto;
+    padding: 30px 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.container h2 {
+    color: #402a6b;  /* Dark purple */
+    margin-bottom: 25px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 12px;
+    box-shadow: 0px 5px 10px rgba(0,0,0,0.1);
+}
+
+.card .title {
+    color: #666;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.card h1 {
+    font-size: 28px;
+    margin: 0;
+    font-weight: bold;
+}
